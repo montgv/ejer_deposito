@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaDeposito>
+    <depositos>
+        <deposito>
+            <diametro>40.3</diametro>
+            <altura>50.5</altura>
+            <idDeposito>Dep_pequeño</idDeposito>
+        </deposito>
+        <deposito>
+            <diametro>100.8</diametro>
+            <altura>150.0</altura>
+            <idDeposito>Dep_mediano</idDeposito>
+        </deposito>
+        <deposito>
+            <diametro>240.5</diametro>
+            <altura>500.0</altura>
+            <idDeposito>Dep_grande</idDeposito>
+        </deposito>
+    </depositos>
+</listaDeposito>
